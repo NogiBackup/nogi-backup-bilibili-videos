@@ -1,0 +1,45 @@
+[channels]
+
+    [channels.2301165]
+    id = 2301165
+    name = "天翼羽魂"
+    priority =  1
+
+        [channels.2301165.tags]
+        idols = ["乃木坂"]
+        programs = ["乃木坂工事中", "乃木英", "橋本奈奈未的恋爱文学", "桥本奈奈未的恋爱文学"]
+        subtitle_groups = ["上行之坂", "新生桥", "麻衣样一途", "坂道之诗", "猴莉喂羊奶", "暗鳥字幕组", "来碗Kyoko拉面", "撕锅小短腿Kii酱"]
+        skip_words = ["吉本坂46", "AKB", "欅会不会写"]
+
+    [channels.19553445]
+    id = 19553445
+    name = "千葉幽羽"
+    priority =  1
+
+        [channels.19553445.tags]
+        idols = ["乃木坂", "日向坂"]
+        programs = ["乃木坂工事中", "乃木坂去哪儿"]
+        subtitle_groups = ["上行之坂"]
+        skip_words = []
+
+    [channels.223063344]
+    id = 223063344
+    name = "新生桥组"
+    priority =  2
+
+        [channels.223063344.tags]
+        idol = []
+        subtitle_groups = ["新生桥"]
+        programs = []
+        skip_words = []
+
+    [channels.346794495]
+    id = 346794495
+    name = "真的晒字幕组"
+    priority =  2
+
+        [channels.346794495.tags]
+        idol = []
+        programs = ["のぎおび", "平假名推"]
+        subtitle_groups = ["真的晒字幕组"]
+        skip_words = []
